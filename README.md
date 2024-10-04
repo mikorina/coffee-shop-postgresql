@@ -4,8 +4,8 @@
 
 ### Notes:
 <p>The source of the database is Kaggle, but the tables have been significantly modified:</p>
-+ basic principles of normalisation were applied to bring them to normal forms;
-+ PK and FK were added;
-+ and FK columns were added, and irrelevant columns and values were removed; 
-+ additional tables were created to display many-to-many relationships, etc.
+<li> basic principles of normalisation were applied to bring them to normal forms;</li>
+<li> PK and FK were added;</li>
+<li> and FK columns were added, and irrelevant columns and values were removed; </li>
+<li> additional tables were created to display many-to-many relationships, etc.</li>
 <p>The script of the corresponding current database was added.</p>
