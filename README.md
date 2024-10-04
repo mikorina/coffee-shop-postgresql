@@ -11,7 +11,7 @@
 <p>The source of the database is Kaggle, but the tables have been significantly modified:</p>
 <li> basic principles of normalisation were applied to bring them to normal forms;</li>
 <li> PK and FK were added;</li>
-<li> and FK columns were added, and irrelevant columns and values were removed; </li>
+<li> irrelevant columns and values were removed; </li>
 <li> additional tables were created to display many-to-many relationships, etc.</li>
 <p></p>
 <p>The script of the corresponding current database was added.</p>
