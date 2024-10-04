@@ -1,6 +1,6 @@
 # Coffee Shop Data Analysis Using PostgreSQL
 
-<img src="https://64.media.tumblr.com/ebf2c28f9a1767ca43ecbadef79f2765/88645a181e0f02ee-1b/s1280x1920/fa8d49b79c1eb41f29c954bfdeec6c13dd194616.pnj" width="650" alt="ER Diagram">
+<center><img src="https://64.media.tumblr.com/ebf2c28f9a1767ca43ecbadef79f2765/88645a181e0f02ee-1b/s1280x1920/fa8d49b79c1eb41f29c954bfdeec6c13dd194616.pnj" width="650" alt="ER Diagram"></center>
 
 ### Description
 <p>This project involves analyzing various aspects of a coffee shop's operations using PostgreSQL. The data used for this analysis includes sales records, staff working hours, and order details. The project focuses on answering business-related questions such as identifying top-selling items, understanding hourly sales trends, and evaluating employee working hours and costs.</p>
